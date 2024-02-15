@@ -1,13 +1,14 @@
 Disney+ Content Analysis
 
-About this Dataset:Disney+ is one of the most popular media and video streaming platforms. They have close to 1300 movies or tv shows available on their platform, as of mid-2021, they have over 116M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Disney+, along with details such as - cast, directors, ratings, release year, duration, etc.
+About this Dataset:                                                                                                                                            
+Disney+ is one of the most popular media and video streaming platforms. They have close to 1300 movies or tv shows available on their platform, as of mid-2021, they have over 116M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Disney+, along with details such as - cast, directors, ratings, release year, duration, etc.
 
-Insights:
-Total Titles: 1,450
-Total Ratings: 10
-Total Genres: 329
-Total Directors: 610
-Start Date: 1928
+Insights:                                                                                                                                                           
+Total Titles: 1,450                                                                                                                                             
+Total Ratings: 10                                                                                                                                                         
+Total Genres: 329                                                                                                                                                             
+Total Directors: 610                                                                                                                                                             
+Start Date: 1928                                                                                                                                                          
 End Date: 2021
 
 Dashboard:
@@ -29,7 +30,7 @@ Movies constitute 72.55% of the content, while TV shows contribute 27.45%.
 Total Shows by Release Year (Area Chart):
 In 2021, TV shows have the highest count, while in 2020, movies dominate.
 
-Conclusion:
+Conclusion:                                                                                                                                                     
 The analysis of Disney+ content reveals valuable insights into the platform's offerings. By understanding content distribution, identifying similarities between titles, and exploring relationships among actors and directors, the report provides actionable information for content curation, recommendations, and strategic decision-making. Additionally, investigating the balance between TV shows and movies over recent years offers insights into Disney+'s evolving content strategy, guiding future content acquisition and production efforts.
 
 Actionable Recommendations:
